@@ -1,0 +1,1170 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.AnimationClipSpriteInfo" preserve="all" />
+    <type fullname="SunnySideUp.ChainRopeMaker" preserve="all" />
+    <type fullname="SunnySideUp.CustomDialogueSystemTrigger" preserve="all" />
+    <type fullname="SunnySideUp.Joint2DBodyConnector" preserve="all" />
+    <type fullname="SunnySideUp.SimpleAnimationPlayer" preserve="all" />
+    <type fullname="SunnySideUp.TriggerEvent" preserve="all" />
+  </assembly>
+  <assembly fullname="AstarPathfindingProject, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AstarPath" preserve="all" />
+    <type fullname="Pathfinding.AIDestinationSetter" preserve="all" />
+    <type fullname="Pathfinding.AIPath" preserve="all" />
+    <type fullname="Pathfinding.FunnelModifier" preserve="all" />
+    <type fullname="Pathfinding.GraphUpdateScene" preserve="all" />
+    <type fullname="Pathfinding.Seeker" preserve="all" />
+    <type fullname="Pathfinding.AstarColor" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.AstarData" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.GraphMask" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.Graphs.Navmesh.NavmeshUpdates" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.Graphs.Util.EuclideanEmbedding" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.PathfindingTag" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.StartEndModifier" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.AutoRepathPolicy" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.RVO.RVODestinationCrowdedBehavior" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="BgWaypointSystemForUnity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Bg.WaypointSystemForTimeline.WaypointComponent" preserve="all" />
+    <type fullname="Bg.WaypointSystemForTimeline.WaypointComponent/Point" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineBasicMultiChannelPerlin" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBlenderSettings" preserve="all" />
+    <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineConfiner" preserve="all" />
+    <type fullname="Cinemachine.CinemachineFramingTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePixelPerfect" preserve="all" />
+    <type fullname="Cinemachine.CinemachineTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="Cinemachine.NoiseSettings" preserve="all" />
+    <type fullname="CinemachineTrack" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBrain/VcamActivatedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineVirtualCameraBase/TransitionParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.NoiseSettings/NoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.NoiseSettings/TransformNoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlenderSettings/CustomBlend" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+  </assembly>
+  <assembly fullname="DialogueSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="PixelCrushers.DialogueSystem.PlaySequenceClip" preserve="all" />
+    <type fullname="PixelCrushers.DialogueSystem.PlaySequenceTrack" preserve="all" />
+    <type fullname="PixelCrushers.DialogueSystem.Wrappers.DialogueDatabase" preserve="all" />
+    <type fullname="PixelCrushers.DialogueSystem.Actor" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.Condition" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.Conversation" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.ConversationOverrideDisplaySettings" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.DialogueDatabase/SyncInfo" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.DialogueEntry" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.DialogueSystemTrigger/SetAnimatorStateAction" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.EmphasisSetting" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.Field" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.InputTrigger" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.Item" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.PlaySequenceBehaviour" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.DialogueSystem.Variable" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Keyword" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="DOTweenPro.Scripts, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
+  </assembly>
+  <assembly fullname="Elringus.SpriteDicing.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SpriteDicing.DicedSpriteAtlas" preserve="all" />
+  </assembly>
+  <assembly fullname="FancyScrollView, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="FancyScrollView.Scroller" preserve="all" />
+    <type fullname="FancyScrollView.Scroller/Snap" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="GameplayIngredients, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="GameplayIngredients.Actions.LogAction" preserve="all" />
+    <type fullname="GameplayIngredients.Actions.SendMessageAction" preserve="all" />
+    <type fullname="GameplayIngredients.Actions.UnityEventAction" preserve="all" />
+    <type fullname="GameplayIngredients.Comments.SceneComment" preserve="all" />
+    <type fullname="GameplayIngredients.Events.OnCollider2DEvent" preserve="all" />
+    <type fullname="GameplayIngredients.Events.OnEnableDisableEvent" preserve="all" />
+    <type fullname="GameplayIngredients.Events.OnMessageEvent" preserve="all" />
+    <type fullname="GameplayIngredients.Events.OnTrigger2DEvent" preserve="all" />
+    <type fullname="GameplayIngredients.Logic.Logic" preserve="all" />
+    <type fullname="GameplayIngredients.Events.InputAssetAction" preserve="nothing" serialized="true" />
+    <type fullname="GameplayIngredients.Comments.Comment" preserve="nothing" serialized="true" />
+    <type fullname="GameplayIngredients.Comments.CommentMessage" preserve="nothing" serialized="true" />
+    <type fullname="GameplayIngredients.Comments.CommentPriority" preserve="nothing" serialized="true" />
+    <type fullname="GameplayIngredients.Comments.CommentState" preserve="nothing" serialized="true" />
+    <type fullname="GameplayIngredients.Comments.CommentType" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="InteractablePlatformArea, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.InteractablePlatformArea" preserve="all" />
+    <type fullname="SunnySideUp.InteractableWaterPlatformArea" preserve="all" />
+    <type fullname="SunnySideUp.PlatformAreaAStarPathMover" preserve="all" />
+    <type fullname="SunnySideUp.WaterPlatformDurability" preserve="all" />
+    <type fullname="SunnySideUp.WaterPlatformAreaStateInformation" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.GroupItemRestrictionObject" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.Inventory" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemRestrictionSetObject" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemSlotSet" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.ItemBinding" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.ItemCategory" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.ItemDefinition" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.ItemObject" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Crafting.CraftingCategory" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Crafting.CraftingRecipe" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Exchange.Currency" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.ItemActions.ItemActionSet" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.ItemObjectBehaviours.ItemObjectBehaviourHandler" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Storage.InventorySystemDatabase" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.UI.DataContainers.CategoryItemViewSet" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.UI.Item.ItemViewModules.AmountItemView" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.UI.Item.ItemViewModules.IconItemView" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.UI.Item.ItemViewModules.ItemView" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.AttributeSystem.ItemAttributeCollection" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.AttributeSystem.ItemCategoryAttributeCollection" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.AttributeSystem.ItemDefinitionAttributeCollection" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.AttributeSystem.RequiredItemAttributeCollection" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.AttributeSystem.RequiredItemDefinitionAttributeCollection" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.DataStructures.ItemAmount" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.DataStructures.ItemInfo" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.DynamicCraftingCategory" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.DynamicCraftingCategoryArray" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.DynamicCraftingRecipeArray" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.Item" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.DynamicItemCategory" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.DynamicItemCategoryArray" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.GroupItemRestriction" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemCollectionID" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemCollectionOverflow" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemCollectionOverflowAction" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemCollectionRestrictions" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemRestrictionSet" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemSlot" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.ItemActions.ItemActionCollection" preserve="nothing" serialized="true" />
+    <type fullname="Opsive.UltimateInventorySystem.UI.DataContainers.CategoryItemViews" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Opsive.UltimateInventorySystem.Demo, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Opsive.UltimateInventorySystem.Demo.CharacterControl.MeleeAttack" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Demo.CharacterControl.RangeAttack" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Demo.CharacterControl.RangeAttackBullet" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Demo.Throwables.Bomb" preserve="all" />
+    <type fullname="Opsive.UltimateInventorySystem.Demo.Damageable.Flash" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="ParadoxNotion, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="NodeCanvas.BehaviourTrees.BehaviourTree" preserve="all" />
+    <type fullname="NodeCanvas.BehaviourTrees.BehaviourTreeOwner" preserve="all" />
+    <type fullname="NodeCanvas.Framework.Blackboard" preserve="all" />
+    <type fullname="NodeCanvas.Framework.SignalDefinition" preserve="all" />
+    <type fullname="NodeCanvas.StateMachines.FSM" preserve="all" />
+    <type fullname="NodeCanvas.StateMachines.FSMOwner" preserve="all" />
+    <type fullname="NodeCanvas.Framework.Internal.GraphSource" preserve="nothing" serialized="true" />
+    <type fullname="ParadoxNotion.DynamicParameterDefinition" preserve="nothing" serialized="true" />
+    <type fullname="ParadoxNotion.Serialization.SerializationPair" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="PixelCrushers, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="PixelCrushers.Wrappers.CollisionEvent" preserve="all" />
+    <type fullname="PixelCrushers.Wrappers.TextTable" preserve="all" />
+    <type fullname="PixelCrushers.Wrappers.TriggerEvent" preserve="all" />
+    <type fullname="PixelCrushers.TextTableField" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.GameObjectUnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="PixelCrushers.TagMask" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="QFSW.QC, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="QFSW.QC.QuantumConsole" preserve="all" />
+    <type fullname="QFSW.QC.QuantumKeyConfig" preserve="all" />
+    <type fullname="QFSW.QC.QuantumLocalization" preserve="all" />
+    <type fullname="QFSW.QC.QuantumTheme" preserve="all" />
+    <type fullname="QFSW.QC.SuggestionDisplay" preserve="all" />
+    <type fullname="QFSW.QC.CollectionFormatter" preserve="nothing" serialized="true" />
+    <type fullname="QFSW.QC.ModifierKeyCombo" preserve="nothing" serialized="true" />
+    <type fullname="QFSW.QC.TypeColorFormatter" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="QFSW.QC.UI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="QFSW.QC.UI.BlurShaderController" preserve="all" />
+    <type fullname="QFSW.QC.UI.DraggableUI" preserve="all" />
+    <type fullname="QFSW.QC.UI.DynamicCanvasScaler" preserve="all" />
+    <type fullname="QFSW.QC.UI.ResizableUI" preserve="all" />
+    <type fullname="QFSW.QC.UI.ZoomUIController" preserve="all" />
+  </assembly>
+  <assembly fullname="Sleep, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="InteractableSleepObject" preserve="all" />
+    <type fullname="SunnySideUp.Nap" preserve="all" />
+    <type fullname="SunnySideUp.NapProcess" preserve="all" />
+  </assembly>
+  <assembly fullname="SplineEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SplineEditor.BezierSpline" preserve="all" />
+    <type fullname="SplineEditor.SplinePoint" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Animation, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.Animation.AnimatorEvaluator" preserve="all" />
+    <type fullname="SunnySideUp.Core.Animation.AnimatorPlayer" preserve="all" />
+    <type fullname="SunnySideUp.Core.Animation.AnimatorSpriteSheetSwapper" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.AudioControl.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.AudioControl.GlobalAudioPlayer" preserve="all" />
+    <type fullname="SunnySideUp.AudioControl.LocationalAudioPlayer" preserve="all" />
+    <type fullname="SunnySideUp.AudioControl.PriorityAudioPlayer" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Brewing, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.BrewingPot" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Camera, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.CameraConfinerFinder" preserve="all" />
+    <type fullname="SunnySideUp.Cinemachine.VirtualCamera.VirtualCameraSequencePlayer" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Cat.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Cat.Audio.CatAudioController" preserve="all" />
+    <type fullname="SunnySideUp.Cat.CatController" preserve="all" />
+    <type fullname="SunnySideUp.Cat.CatEffectPlayer" preserve="all" />
+    <type fullname="SunnySideUp.Cat.CatInteractConditionChecker" preserve="all" />
+    <type fullname="SunnySideUp.Cat.UnhappySignalPlayer" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Cinematic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.AnimatorStateLoader" preserve="all" />
+    <type fullname="SunnySideUp.AnimatorStateSetter" preserve="all" />
+    <type fullname="SunnySideUp.CharacterAnimatorTrack" preserve="all" />
+    <type fullname="SunnySideUp.TimelineFixedUpdater" preserve="all" />
+    <type fullname="SunnySideUp.TimelineTrackBinder" preserve="all" />
+    <type fullname="SunnySideUp.IntStringDictionary" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Content.Puzzles, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Grabbing.ObjectGrabberSaver" preserve="all" />
+    <type fullname="SunnySideUp.Hangable.HangableAnchorGrabbableSnapHandler" preserve="all" />
+    <type fullname="SunnySideUp.Hangable.HangableAnchorInteractableHandler" preserve="all" />
+    <type fullname="SunnySideUp.Hangable.HangableGrabbableObject" preserve="all" />
+    <type fullname="SunnySideUp.HangableGrabbableObjectSaver" preserve="all" />
+    <type fullname="SunnySideUp.ItemStorageBoxCorrectItemChecker" preserve="all" />
+    <type fullname="SunnySideUp.ManaFlameLightController" preserve="all" />
+    <type fullname="SunnySideUp.ManaFlameTorch" preserve="all" />
+    <type fullname="SunnySideUp.ManaFlameTorchPuzzleManager" preserve="all" />
+    <type fullname="SunnySideUp.ManaFlameTorchSaver" preserve="all" />
+    <type fullname="SunnySideUp.ManaFlammableWitchSign" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.Common.StuckEscapeZone" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.Common.TeleportGate" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.Common.TimelineGate" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.Barricade" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.BarrierWall" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.BellIndicator" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.BellSignalConnector" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.BellSignalGate" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.BellSignalGateFX" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.BellSignalGateSensor" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.BellTower" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.BellTowerSaver" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.DisappearGroup" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.DisappearObject" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStone" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStoneCircle" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStoneGateSequencer" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStoneMover" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStoneRemoteMover" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStoneSaver" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStoneSignalReceiver" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStoneSwitch" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.FloatingStoneSwitchSaver" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloon" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonBridgeJoint" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonManager" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonManagerSaver" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonSaver" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonVisual" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.PillarArea" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.PillarArrow" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalButton" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalButtonBalanceWeight" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalButtonSaver" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalCable" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalGate" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalGatepost" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalGateSaver" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalHub" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.SignalPuzzleManager" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.StarSeaCaveCube" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.StarSeaCaveCubeSlot" preserve="all" />
+    <type fullname="SunnySideUp.WallDrawing" preserve="all" />
+    <type fullname="SunnySideUp.WeightBasedHangableAnchor" preserve="all" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonPath" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonVisual/HeatParticleSetting" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonVisual/HeatParticleSetting/EmissionModule" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonVisual/HeatParticleSetting/MainModule" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonVisual/HeatParticleSetting/ShapeModule" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.Action.Jump.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.Action.Jump.JumpConditionCheckerByStatusEffect" preserve="all" />
+    <type fullname="SunnySideUp.Core.Action.Jump.JumpPad" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.ContentFeatures, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.ContentFeatures.GridBuildingExtensions.GridBuildingFishPortProp" preserve="all" />
+    <type fullname="SunnySideUp.ContentFeatures.TerrainEffect.TerrainVFXEffector" preserve="all" />
+    <type fullname="SunnySideUp.Core.Reform.CraftingEffectSequencePlayer" preserve="all" />
+    <type fullname="SunnySideUp.NewBrewing.BrewingAnimationEventNotifier" preserve="all" />
+    <type fullname="SunnySideUp.NewBrewing.BrewingFlowHandler" preserve="all" />
+    <type fullname="SunnySideUp.NewBrewing.BrewingIngredientFX" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.DataAsset, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.DataAsset.IndexedSpritesAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.DataAsset.SpriteSheetSwapPairAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.DataAsset.StringToIntAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.DataAsset.StringToIntSerializableDictionary" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.DataAsset.Contents, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.DataAsset.StringFormatters.BroomstickItemStringFormatterAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.DataAsset.StringFormatters.CollectiblesCraftingRecipeItemStringFormatterAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.DataAsset.StringFormatters.GridBuildingItemStringFormatterAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.DataAsset.StringFormatters.LocalizedStringFormatterAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.DataAsset.StringFormatters.RandomBoxItemStringFormatterAsset" preserve="all" />
+    <type fullname="SunnySideUp.IndexedSpriteSelector" preserve="all" />
+    <type fullname="SunnySideUp.Core.DataAsset.StringFormatters.RandomBoxItemStringFormatterAsset/SecondIDToThirdIDTableAlias" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.EventTriggerArea, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.EventTriggerArea.MovingPlatformArea" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.MailSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.MailSystem.MailAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.MiniMap, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.MiniMap.MarkerObject" preserve="all" />
+    <type fullname="SunnySideUp.MarkerObjectActivateConditionSaver" preserve="all" />
+    <type fullname="SunnySideUp.SpriteMarkerIconData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.MiniMap.StatefulObstacleMarker, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.MiniMap.StatefulObstacleMarker" preserve="all" />
+    <type fullname="SunnySideUp.Core.MiniMap.StatefulObstacleMarkerSaver" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.NoticeBoard.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.NoticeBoard" preserve="all" />
+    <type fullname="SunnySideUp.NoticeBoardSpriteController" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.SyncedResources, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Cat.CatActionDataAsset" preserve="all" />
+    <type fullname="SunnySideUp.Cat.CatConnectionActionGraphAsset" preserve="all" />
+    <type fullname="SunnySideUp.Cat.CatDataAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.ContentDatabase.BrewingIngredientSelectorItemAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.ContentDatabase.BrewingIngredientSelectorItemByThemeAsset" preserve="all" />
+    <type fullname="SunnySideUp.Core.ContentDatabase.CollectiblesCraftingRecipeItemIntrinsicValueFormula" preserve="all" />
+    <type fullname="SunnySideUp.Core.ContentDatabase.GridBuildingPropItemIntrinsicValueFormula" preserve="all" />
+    <type fullname="SunnySideUp.GridBuildingSystem.PropTileData" preserve="all" />
+    <type fullname="SunnySideUp.Cat.CatActionDataAsset/AnimationWeightData" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Cat.CatActionDataAsset/CatActionWeightData" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Cat.CatActionDataAsset/CatActionWeightDataSet" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Cat.CatActionDataAsset/CatActionWeightDataSetGroup" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Cat.CatActionGroup" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Cat.CatConnectionActionSerializableDictionary" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.CatActionWeightGroupSerializableDictionary" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Core.ContentDatabase.UltimateInventorySystem.ItemDefinitionReference" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Core.UniqueID, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.UniqueIDReference" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Creature, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Creature.EntityKindIdentifier" preserve="all" />
+    <type fullname="SunnySideUp.CreaturePreferenceTable" preserve="all" />
+    <type fullname="SunnySideUp.Location" preserve="all" />
+    <type fullname="SunnySideUp.NoiseListener" preserve="all" />
+    <type fullname="SunnySideUp.TargetSearcherWithFieldOfView" preserve="all" />
+    <type fullname="SunnySideUp.NoiseListener/HearEvent" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.TargetSearcherWithFieldOfView/FOVEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Effect, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Effect" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Encyclopedia, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.CreatureInfo" preserve="all" />
+    <type fullname="SunnySideUp.EncyclopediaTask" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.EntityEnvironmentVFX, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.Data.GameTimeGradientPreset" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.EnvironmentVFXController_UVHelper" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.EnvironmentVFXController_WitchBarrier" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.EnvironmentVFXController_WitchStationPortal" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.ShaderController.Buffer.EEVFXBufferWriterMaterialSwapper" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.ShaderController.Buffer.WaterDepthBuffer" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.ShaderController.Entity.EntityVFXController" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.ShaderController.Entity.EntityVFXOverrider" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.ShaderController.Environment.EnvironmentVFXController_Light" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.ShaderController.Environment.EnvironmentVFXController_StarWhale" preserve="all" />
+    <type fullname="SunnySideUp.EntityEnvironmentVFX.ShaderController.Environment.EnvironmentVFXController_VisibleThroughEffect" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Extension.DefaultPlayables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.LightLevelRandomChanger" preserve="all" />
+    <type fullname="SunnySideUp.ProgressiveSwitcherTogglerByTime" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Fishing, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.FishDataAsset" preserve="all" />
+    <type fullname="SunnySideUp.FishingProbabilityTableAsset" preserve="all" />
+    <type fullname="SunnySideUp.FishingProbabilityTable" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.FishingProbabilityTable/OverrideFixedChanceData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Fishing.Contents, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.FishingResultPopup" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.FontPreset, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.TextMeshProFontPresetApplier" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.GameLevel.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.GameLevel" preserve="all" />
+    <type fullname="SunnySideUp.Theme" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.GameplayIngredientsExtension, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ChangeMessageWithArgument" preserve="all" />
+    <type fullname="SunnySideUp.CheckGameObjectNameLogic" preserve="all" />
+    <type fullname="SunnySideUp.CheckLuaConditionLogic" preserve="all" />
+    <type fullname="SunnySideUp.FadeAllChildrenAction" preserve="all" />
+    <type fullname="SunnySideUp.FindGameObjectAndSetInstigatorLogic" preserve="all" />
+    <type fullname="SunnySideUp.LoadUnloadSceneAction" preserve="all" />
+    <type fullname="SunnySideUp.OnAnimationEventExecuteEvent" preserve="all" />
+    <type fullname="SunnySideUp.OnCollisionCheck" preserve="all" />
+    <type fullname="SunnySideUp.OnEnterExitGameLevelEvent" preserve="all" />
+    <type fullname="SunnySideUp.OnGameTimeUpdateEvent" preserve="all" />
+    <type fullname="SunnySideUp.OnReceivedPotionEffectEvent" preserve="all" />
+    <type fullname="SunnySideUp.OnStatusEffectApply" preserve="all" />
+    <type fullname="SunnySideUp.OnStatusEffectRelease" preserve="all" />
+    <type fullname="SunnySideUp.PauseResumeAction" preserve="all" />
+    <type fullname="SunnySideUp.RunLuaCodeAction" preserve="all" />
+    <type fullname="SunnySideUp.StartConversationAction" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectApplyAction" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectDurationChangeAction" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectReleaseAction" preserve="all" />
+    <type fullname="SunnySideUp.TeleportAction" preserve="all" />
+    <type fullname="SunnySideUp.TeleportToPositionAction" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Gate.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.GateSequencer" preserve="all" />
+    <type fullname="SunnySideUp.MonoGate" preserve="all" />
+    <type fullname="SunnySideUp.MultiExitGate" preserve="all" />
+    <type fullname="SunnySideUp.MultiExitGate/ExitInfo" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Gathering, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.OnlyCanInteractWithCertainArea" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.GlobalVariable.Extensions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.GlobalVariableCheckLogic" preserve="all" />
+    <type fullname="SunnySideUp.GlobalVariableSetAction" preserve="all" />
+    <type fullname="SunnySideUp.GlobalVariableAssigment" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.GlobalVariableComparison" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Grabbing.Contents, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Grabbing.Contents.Data.GrabbingObjectConditions.EllieEffectCondition" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Grabbing.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Grabbing.Data.GrabbableObjectDataPreset" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.Data.GrabbingObjectConditions.NameCompareCondition" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.Data.ObjectGrabberDataPreset" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.GrabbableObject" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.GrabbableObjectInteractable" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.GrabbableObjectSnapper" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.GrabbableObjectTrigger" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.NodeCanvas.GrabbableObjectTriggerFowarder" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.ObjectGrabber" preserve="all" />
+    <type fullname="SunnySideUp.Grabbing.Data.GrabbableObjectData" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Grabbing.Data.ObjectGrabberData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.GridBuildingSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="EnterBuildModeProcess" preserve="all" />
+    <type fullname="SunnySideUp.GridBuildingSystem.FunctionalPropStateHandler" preserve="all" />
+    <type fullname="SunnySideUp.GridBuildingSystem.PropInteractableHelper" preserve="all" />
+    <type fullname="SunnySideUp.GridBuildingSystem.PropObject" preserve="all" />
+    <type fullname="SunnySideUp.PropAnimatorAutoTransition" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Holdable, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Holdable" preserve="all" />
+    <type fullname="SunnySideUp.HoldingIndicator" preserve="all" />
+    <type fullname="SunnySideUp.PlayAnimationByHoldingProgress" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.InputDeviceControl, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.InputDeviceChangeEventHandler" preserve="all" />
+    <type fullname="SunnySideUp.KeyGuideGroup" preserve="all" />
+    <type fullname="SunnySideUp.KeyGuideGroupVisibleController" preserve="all" />
+    <type fullname="SunnySideUp.KeyGuideIconSetter" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.InputDeviceControl.Data, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.IrregularKeyIconData" preserve="all" />
+    <type fullname="SunnySideUp.KeyIconData/KeyData/KeyIconPair" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Interaction.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Interaction.Interactable" preserve="all" />
+    <type fullname="SunnySideUp.NPCInteractionMarker" preserve="all" />
+    <type fullname="GameObjectEvent" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Interaction.InteractorEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.InteractSchedule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Cat.InteractScheduleActor" preserve="all" />
+    <type fullname="SunnySideUp.Cat.InteractScheduleProp" preserve="all" />
+    <type fullname="SunnySideUp.Cat.InteractScheduleProp/InteractScheduleData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Item, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.DropItem" preserve="all" />
+    <type fullname="SunnySideUp.ItemDropNoAnimation" preserve="all" />
+    <type fullname="SunnySideUp.ItemDropper" preserve="all" />
+    <type fullname="SunnySideUp.ItemPopupAnimation" preserve="all" />
+    <type fullname="SunnySideUp.ItemVerticalDropAnimation" preserve="all" />
+    <type fullname="SunnySideUp.PotionEffectSet" preserve="all" />
+    <type fullname="SunnySideUp.PotionProduct" preserve="all" />
+    <type fullname="SunnySideUp.PotionProductReceiver" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Item.Potion.Effects, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.RaiseEventEffect" preserve="all" />
+    <type fullname="SunnySideUp.SendMessageEffect" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectGiveEffect" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.ItemDisplay, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.DisplayTable" preserve="all" />
+    <type fullname="SunnySideUp.DisplayTableUICaller" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.ItemStorageBox, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.ItemStorageBox" preserve="all" />
+    <type fullname="SunnySideUp.ItemStorageBoxCaller" preserve="all" />
+    <type fullname="SunnySideUp.ItemStorageBoxSaver" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Layered2DSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Layered2DSystem.Layered2DDynamicObject" preserve="all" />
+    <type fullname="SunnySideUp.Layered2DSystem.Layered2DObject" preserve="all" />
+    <type fullname="SunnySideUp.Layered2DSystem.Layered2DRuleTile" preserve="all" />
+    <type fullname="SunnySideUp.Layered2DSystem.Layered2DTilemapGizmos" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.LocalizeFontAssetEvent" preserve="all" />
+    <type fullname="SunnySideUp.LocalizeFontMaterialEvent" preserve="all" />
+    <type fullname="SunnySideUp.LocalizeTextSettingEvent" preserve="all" />
+    <type fullname="SunnySideUp.TextSettingAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Manufacture, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Manufacture.IncubatorMachine" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.JuicerAnimationSignalForwarder" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.JuicerMachine" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.KneaderAnimationSignalForwarder" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.KneaderMachine" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.ManufactureCrafter" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.Module.ManufactureAnimatorModule" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.Module.ManufactureCrafterModule" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.Module.ManufactureInteractorModule" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.Module.Progression.ButtonMashingAcceleratorModule" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.Module.Progression.GameTimeProgressionModule" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.Module.Progression.RealTimeProgressionModule" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.Module.RoasterTimer" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.RoasterMachine" preserve="all" />
+    <type fullname="SunnySideUp.Manufacture.RoastRecipe" preserve="all" />
+    <type fullname="SunnySideUp.UI.Manufacture.ViewModels.ManufactureTimerUIViewModel" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Map, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.TilemapGizmosDrawer_NoneColliderType" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Mashing, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.ButtonMashingController" preserve="all" />
+    <type fullname="SunnySideUp.ButtonMashingValueController" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.NewSpawner, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.SpawnConditionGroup" preserve="all" />
+    <type fullname="SunnySideUp.SpawnData" preserve="all" />
+    <type fullname="SunnySideUp.Spawner" preserve="all" />
+    <type fullname="SunnySideUp.SpawnerDataSaver" preserve="all" />
+    <type fullname="SunnySideUp.CurrentSpawnedObjectNumberCondition" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.InsideCameraCheckCondition" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.LetterTimeCondition" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.NormalSpawnProcess" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.NodeCanvas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.BlackboardVariablesSaver" preserve="all" />
+    <type fullname="SunnySideUp.NewBlackboardSaver" preserve="all" />
+    <type fullname="SunnySideUp.NodeCanvas.SendEventToFSM" preserve="all" />
+    <type fullname="SunnySideUp.Save.BlackboardSaver" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.ObjectIdentifier, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.ObjectIdentifier" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.PauseController, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.PauseHelper" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.RumbleSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.RumbleSystem.GamepadRumblePlayer" preserve="all" />
+    <type fullname="SunnySideUp.RumbleSystem.GamepadRumblePreset" preserve="all" />
+    <type fullname="SunnySideUp.RumbleSystem.GamepadRumbleConfig" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.RumbleSystem.GamepadRumbleFrequency" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.RumbleSystem.GamepadRumbleFrequencyCurves" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Save.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.AutoSaveApplier" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.ScreenTransition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.TransitionControlClip" preserve="all" />
+    <type fullname="SunnySideUp.TransitionControlTrack" preserve="all" />
+    <type fullname="SunnySideUp.TransitionControlBehaviour" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.SpriteMaskArea, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.SpriteMaskArea.SpriteMaskArea" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.SpriteMaskArea.Contents, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.SpriteMaskArea.SpriteMaskApplicator" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.StatusEffect, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.StatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectHandler" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectIndicator" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectIndicatorController" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectSaver" preserve="all" />
+    <type fullname="SunnySideUp.StatusEffectArgument" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.StatusEffect.Addon, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.StatusEffectReleaserOnEnterGameLevel" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.StatusEffect.Variations, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.FatigueRandomRecoveryStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.ForceSleepShieldStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.Illuminant" preserve="all" />
+    <type fullname="SunnySideUp.IncreaseFatigueRecoverStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.IncreaseSpecialNormalCollectDropProbabilityStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.LuminousStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.MoveSpeedControlStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.RecoverMaxFatigueStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.ReduceFatigueUsageStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.RitoringAlarmStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.RitoringBonusRewardStatusEffectDefinition" preserve="all" />
+    <type fullname="SunnySideUp.StaminaStatusEffectDefinition" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Terrain, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Terrain.AnimatedTerrainTile" preserve="all" />
+    <type fullname="SunnySideUp.Terrain.Layered2DTerrainRuleTile" preserve="all" />
+    <type fullname="SunnySideUp.Terrain.TerrainMetadata" preserve="all" />
+    <type fullname="SunnySideUp.Terrain.TerrainRuleTile" preserve="all" />
+    <type fullname="SunnySideUp.Terrain.TerrainTile" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Time.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Time.LetterTimeSet" preserve="all" />
+    <type fullname="SunnySideUp.Time.GameTime" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Time.LetterTime" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Tool, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Drawable" preserve="all" />
+    <type fullname="SunnySideUp.DrawableCompleteActionRunner" preserve="all" />
+    <type fullname="SunnySideUp.DrawableInteractionIndicatorController" preserve="all" />
+    <type fullname="SunnySideUp.DrawableProgressIndicator" preserve="all" />
+    <type fullname="SunnySideUp.RestrictCatDrawingOneTime" preserve="all" />
+    <type fullname="SunnySideUp.RestrictDrawingOneTime" preserve="all" />
+    <type fullname="SunnySideUp.TargetIndicatorByCoolTime" preserve="all" />
+    <type fullname="SunnySideUp.IDrawable/DrawableType" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UnlockEncyclopediaDrawingTargetAction" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UnlockCatEncyclopediaDrawingTargetAction" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.Brewing, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.BrewingStartPopup" preserve="all" />
+    <type fullname="SunnySideUp.UI.Brewing.Views.BrewingLifeUIView" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.PageIndicator" preserve="all" />
+    <type fullname="SunnySideUp.ProgressIndicator" preserve="all" />
+    <type fullname="SunnySideUp.SelectableUiElement" preserve="all" />
+    <type fullname="SunnySideUp.SelectableUiElementWithMove" preserve="all" />
+    <type fullname="SunnySideUp.TextScroller" preserve="all" />
+    <type fullname="SunnySideUp.UIMoveEvent" preserve="all" />
+    <type fullname="SunnySideUp.UIPositionAdjuster" preserve="all" />
+    <type fullname="SunnySideUp.VerticalNavigationAutoConfigure" preserve="all" />
+    <type fullname="SunnySideUp.ViewportBorder" preserve="all" />
+    <type fullname="SunnySideUp.ProgressIndicator/ProgressSprite" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.Delivery, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.DeliveryRewardView" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.EntityIndication, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.EntityIndicatorGroupUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.EntityIndicatorUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.Indicators.HoldingIndicatorUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.Indicators.StatusEffectIndicatorUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.EntityIndication.Views.EntityIndicatorUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.Rules.EffectIndicationRule" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.Rules.HUDVisibilityIndicationRule" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.Rules.HoldableIndicationRule" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.Rules.InteractIndicationRule" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.Rules.PauseIndicationRule" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UI.EntityIndication.ViewModels.Rules.StatusEffectIndicationRule" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.Manufacture, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.UI.Manufacture.ManufactureProgressionGaugeUIViewModel" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.Popup.Variables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.ApplyBrewingResultToWishListPopup" preserve="all" />
+    <type fullname="SunnySideUp.DeliveryCompletePopup" preserve="all" />
+    <type fullname="SunnySideUp.EmergencyEscapePopup" preserve="all" />
+    <type fullname="SunnySideUp.GateMarkerView" preserve="all" />
+    <type fullname="SunnySideUp.InputPresetPopup" preserve="all" />
+    <type fullname="SunnySideUp.InputPresetTab" preserve="all" />
+    <type fullname="SunnySideUp.ItemPopup" preserve="all" />
+    <type fullname="SunnySideUp.KeywordPopup" preserve="all" />
+    <type fullname="SunnySideUp.MetadataExtractionPopup" preserve="all" />
+    <type fullname="SunnySideUp.MiniMapPopup" preserve="all" />
+    <type fullname="SunnySideUp.MultipleItemResultPopup" preserve="all" />
+    <type fullname="SunnySideUp.NormalMarkerView" preserve="all" />
+    <type fullname="SunnySideUp.ObstacleMarkerView" preserve="all" />
+    <type fullname="SunnySideUp.OneButtonPopup" preserve="all" />
+    <type fullname="SunnySideUp.PageSliderPopup" preserve="all" />
+    <type fullname="SunnySideUp.PlayerMarkerView" preserve="all" />
+    <type fullname="SunnySideUp.QuestMarkerView" preserve="all" />
+    <type fullname="SunnySideUp.RandomItemBoxPopup" preserve="all" />
+    <type fullname="SunnySideUp.StaticPopup" preserve="all" />
+    <type fullname="SunnySideUp.StaticPopupHelper" preserve="all" />
+    <type fullname="SunnySideUp.TermsConsentPopup" preserve="all" />
+    <type fullname="SunnySideUp.TextOnlyPopup" preserve="all" />
+    <type fullname="SunnySideUp.TimePickerPopup" preserve="all" />
+    <type fullname="SunnySideUp.TwoButtonPopup" preserve="all" />
+    <type fullname="SunnySideUp.UI.BrewingFlowUI.Views.BrewingFailurePopup" preserve="all" />
+    <type fullname="SunnySideUp.UI.BrewingFlowUI.Views.BrewingSuccessPopup" preserve="all" />
+    <type fullname="SunnySideUp.UI.ResultItem.ViewModels.ResultItemListContainerItemUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.ResultItem.ViewModels.ResultItemListContainerUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.MarkerViewPrefabSerializableDictionary" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.Reform, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.UI.Reform.ReformColorIconUIView" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.UVMP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.AdjustCounterUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.AdjustCounterUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.CategoryItemUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.CategoryUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Context.ContextableUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Context.PassiveInputContextUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Context.ScrollContextUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.ContextMenuItemUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.ContextMenuUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.CursorUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.DotIndicatorUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.GaugeStepUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.GaugeUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.ImageColorSetter" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.ImageVisibilityBySpriteUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.IndexedImageUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.ListContainerUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.PageSliderUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Prompt.HoldInputProgressUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Prompt.InputGuideArrow" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Prompt.InputPromptUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Prompt.InputPromptVerticalHelperUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Prompt.IrregularInputPromptUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.SeparatedValueLabelUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.ToastMessageUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UnreadIndicatorUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Context.PassiveInputProcessor" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.CursorStyles" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.CursorStyles/Style" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.CursorStyles/Transition" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.UVMP.FancyScrollView, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyGridItemUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyGridUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyScrollItemUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyScrollUIView" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.UVMP.Fishing, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.Fishing.FishRankIconUIViewModel" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.UVMP.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.CurrencyUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.InventoryGridItemUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.InventoryGridUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.InventoryInputPromptItemUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.InventoryInputPromptUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.InventoryUIViewModel" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.ItemDescriptionView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.ItemInfoUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.ItemSlotUIView" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.UVMP.UltimateInventorySystem.Contents, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.BroomstickItemInfoUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.FoodEffectItemInfoUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.GridBuildingItemInfoUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.StorageItemInfoUIView" preserve="all" />
+    <type fullname="SunnySideUp.UI.Core.UVMP.Components.UltimateInventorySystem.WorkbenchItemInfoUIView" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.WishList, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.WishList.ApplyBrewingResultToWishListHandler" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UpgradeSystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.GlobalVariableUpgradable" preserve="all" />
+    <type fullname="SunnySideUp.SelectAnimationFromUpgradeLevel" preserve="all" />
+    <type fullname="SunnySideUp.SelectSpriteFromUpgradeLevel" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Utility.Adjusting, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CollisionDetectCondition" preserve="all" />
+    <type fullname="SunnySideUp.AdjustingTarget" preserve="all" />
+    <type fullname="SunnySideUp.Utility.Selector.NearestAdjustingTargetSelector" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Utility.Event, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.EnableEvent" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Utility.Position, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.PositionSetter" preserve="all" />
+    <type fullname="SunnySideUp.ResetPositionOnDisable" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Utility.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.AnimatorSynchronizer" preserve="all" />
+    <type fullname="SunnySideUp.CanvasSortingLayerDataSetter" preserve="all" />
+    <type fullname="SunnySideUp.ChildObjectActiveSetter" preserve="all" />
+    <type fullname="SunnySideUp.GameObjectDestroyer" preserve="all" />
+    <type fullname="SunnySideUp.ObjectParent" preserve="all" />
+    <type fullname="SunnySideUp.OrbitCalculateHelper" preserve="all" />
+    <type fullname="SunnySideUp.Point" preserve="all" />
+    <type fullname="SunnySideUp.RandomAnimationPlayer" preserve="all" />
+    <type fullname="SunnySideUp.SafeDestroy" preserve="all" />
+    <type fullname="SunnySideUp.SortingLayerData" preserve="all" />
+    <type fullname="SunnySideUp.SpriteRendererAlphaSetter" preserve="all" />
+    <type fullname="SunnySideUp.UIImageOutline" preserve="all" />
+    <type fullname="SunnySideUp.Utility.DOTweenAnimationUnion" preserve="all" />
+    <type fullname="SunnySideUp.Utility.ImageFillAmountRemapper" preserve="all" />
+    <type fullname="SunnySideUp.Utility.RefreshEffector" preserve="all" />
+    <type fullname="SunnySideUp.Utility.TransformFacer" preserve="all" />
+    <type fullname="SunnySideUp.WorldPositionAnchor" preserve="all" />
+    <type fullname="SunnySideUp.OrbitCalculateHelper/OrbitObject" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Utility.SelectableSpot, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.SelectablePoint" preserve="all" />
+    <type fullname="SunnySideUp.SpotSelector" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Utility.Selector, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Utility.Selector.TransformPositionToVectorSelector" preserve="all" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Vehicle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.BroomstickEffector" preserve="all" />
+    <type fullname="SunnySideUp.BroomstickVisual" preserve="all" />
+    <type fullname="SunnySideUp.DurabilityExhaustedEvent" preserve="all" />
+    <type fullname="SunnySideUp.VehicleController" preserve="all" />
+    <type fullname="SunnySideUp.BroomstickBase" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.VisualControl.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.FlowerLightController" preserve="all" />
+    <type fullname="SunnySideUp.FlowerLightSaver" preserve="all" />
+    <type fullname="SunnySideUp.VisualControl.GroupVisual" preserve="all" />
+    <type fullname="SunnySideUp.VisualControl.LetterTimeDefinedVisualPresets" preserve="all" />
+    <type fullname="SunnySideUp.VisualControl.ProgressiveSwitcher" preserve="all" />
+    <type fullname="SunnySideUp.VisualControl.ZoneVisual" preserve="all" />
+    <type fullname="SunnySideUp.FlowerLightController/FlowerLightSetting" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.VisualControl.LightData" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.VisualControl.StringLetterTimeVisualProfileDictionary" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.VisualControl.VisualPreset" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.VisualControl.ZoneVisual/EEVFXOptionsData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.WallClimbing, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SunnySideUp.Core.WallClimbing.ClimbingArea" preserve="all" />
+    <type fullname="SunnySideUp.Core.WallClimbing.ClimbingAreaEntrance" preserve="all" />
+  </assembly>
+  <assembly fullname="Swimming, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="PlayerSwimmingStateChanger" preserve="all" />
+  </assembly>
+  <assembly fullname="UIEffect, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIEffects.UIEffect" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.2D.Animation.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.U2D.Animation.SpriteSkin" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.2D.Tilemap.Extras, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.RuleTile" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.AnimatedTile" preserve="all" />
+    <type fullname="UnityEngine.RuleTile/TilingRule" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.InputSystem, Version=1.11.2.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="all" />
+    <type fullname="UnityEngine.InputSystem.InputActionReference" preserve="all" />
+    <type fullname="UnityEngine.InputSystem.UI.InputSystemUIInputModule" preserve="all" />
+    <type fullname="UnityEngine.InputSystem.InputAction" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputActionMap" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputBinding" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputControlScheme" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.InputSystem.InputControlScheme/DeviceRequirement" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Localization.Components.LocalizeStringEvent" preserve="all" />
+    <type fullname="UnityEngine.Localization.Locale" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.AssetTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.Events.UnityEventString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocalizedAsset`1[SunnySideUp.TextSettingAsset]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocalizedAsset`1[TMPro.TMP_FontAsset]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocalizedAsset`1[UnityEngine.Material]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocalizedString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.VariableNameValuePair" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.IntVariable" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.StringVariable" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.AssetTypeMetadata" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.SmartFormatTag" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.VolumeProfile" preserve="all" />
+    <type fullname="UnityEngine.Rendering.BoolParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ClampedFloatParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ClampedIntParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ColorParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.MinFloatParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.NoInterpTextureParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.TextureCurve" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.TextureCurveParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.TextureParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Vector2Parameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Vector4Parameter" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.Bloom" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.ColorCurves" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.FilmGrain" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.LiftGammaGain" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.Light2D" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.ShadowsMidtonesHighlights" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.Vignette" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.DownscaleParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.FilmGrainLookupParameter" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.ActivationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.ActivationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalEmitter" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver/EventKeyValue" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset/EditorSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineClip" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.TextSettingAsset]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.UI.Core.UVMP.Components.Context.ContextUIView]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.UI.Core.UVMP.Components.Context.PassiveInputProcessor]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[TMPro.TMP_FontAsset]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.Material]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[System.Single,System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`3[SunnySideUp.UI.Core.UVMP.Components.GaugeStepUIView,System.Int32,System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`3[System.Int32,System.Int32,System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyGridItemUIView]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyScrollItemUIView]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.UI.Core.UVMP.Components.UnreadIndicatorUIView]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemCollection,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.CategoryUIView,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyGridItemUIView,System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyGridUIView,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyGridUIView,UnityEngine.EventSystems.AxisEventData]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyGridUIView,UnityEngine.EventSystems.BaseEventData]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyScrollItemUIView,System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyScrollUIView,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyScrollUIView,UnityEngine.EventSystems.AxisEventData]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.UI.Core.UVMP.Components.FancyScrollView.FancyScrollUIView,UnityEngine.EventSystems.BaseEventData]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[UnityEngine.GameObject,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`3[Opsive.UltimateInventorySystem.Core.InventoryCollections.ItemCollection,System.Int32,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Cinemachine.VirtualCamera.VirtualCameraSequencePlayer]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.DropItem]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Grabbing.GrabbableObject]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Grabbing.ObjectGrabber]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.GridBuildingSystem.FunctionalPropState]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Hangable.Weight]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.IDrawable]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.ManaFlameLightController]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.ManaFlameTorchPuzzleManager]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.ManaFlameTorch]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.PotionProduct]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.Barricade]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.BellSignalGate]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.BellTower]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.DisappearObject]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.FloatingStoneCircle]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.FloatingStoneSwitch]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.FloatingStone]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.HotAirBalloonManager]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.HotAirBalloon]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.PillarArea]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.SignalButton]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.SignalGate]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.Puzzles.StarSeaCave.SignalPuzzleManager]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[SunnySideUp.SpawnResultsContainer]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.String]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.Grabbing.ObjectGrabber,SunnySideUp.Grabbing.GrabbableObject]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.Grabbing.ObjectGrabber,UnityEngine.Vector2]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.Puzzles.StarSeaCave.BellSignalGate,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[SunnySideUp.Puzzles.StarSeaCave.FloatingStone,UnityEngine.Collider2D]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[UnityEngine.Rigidbody2D,UnityEngine.Collider2D]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.ExposedReference`1[UnityEngine.Transform]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Collections.Generic.IList`1[System.Single]]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.Localization.LocalizedString]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.Sprite]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`3[Opsive.UltimateInventorySystem.Core.ItemDefinition,System.Nullable`1[System.Int32],System.Nullable`1[System.Int32]]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.EventSystems.AxisEventData]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[System.String,System.Int32]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.GridModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Grid" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CompositeCollider2D" preserve="all" />
+    <type fullname="UnityEngine.DistanceJoint2D" preserve="all" />
+    <type fullname="UnityEngine.EdgeCollider2D" preserve="all" />
+    <type fullname="UnityEngine.FixedJoint2D" preserve="all" />
+    <type fullname="UnityEngine.HingeJoint2D" preserve="all" />
+    <type fullname="UnityEngine.PlatformEffector2D" preserve="all" />
+    <type fullname="UnityEngine.PolygonCollider2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+    <type fullname="UnityEngine.SliderJoint2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SpriteMask" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Tilemaps.Tile" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.Tilemap" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.TilemapCollider2D" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.TilemapRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Selectable" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Opsive.Shared">
+    <type fullname="Opsive.Shared.UI.Text" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Opsive.Shared.Utility">
+    <type fullname="Opsive.Shared.Utility.Serialization" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.SceneReference.Runtime">
+    <type fullname="SceneReference" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Task.Runtime">
+    <type fullname="SunnySideUp.TaskContainer`1[SunnySideUp.EncyclopediaTask]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.UI.UVMP.Shared.UltimateInventorySystem">
+    <type fullname="SunnySideUp.UI.Core.UVMP.Shared.UltimateInventorySystem.InventoryInputPrompt" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SunnySideUp.Utility.ObjectWithAmount">
+    <type fullname="SunnySideUp.Utilities.ObjectWithAmount`1[Opsive.UltimateInventorySystem.Core.ItemDefinition]" preserve="nothing" serialized="true" />
+    <type fullname="SunnySideUp.Utilities.ObjectWithAmount`1[Opsive.UltimateInventorySystem.Exchange.Currency]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
