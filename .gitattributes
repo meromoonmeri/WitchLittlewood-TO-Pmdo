@@ -22,3 +22,6 @@
 /LWIW_Data/sharedassets387.assets.resS filter=lfs diff=lfs merge=lfs -text
 /LWIW_Data/sharedassets465.assets.resS filter=lfs diff=lfs merge=lfs -text
 /LWIW_Data/sharedassets94.assets.resS filter=lfs diff=lfs merge=lfs -text
+LWIW_Data/sharedassets*.assets filter=lfs diff=lfs merge=lfs -text
+LWIW_Data/sharedassets*.assets.resS filter=lfs diff=lfs merge=lfs -text
+LWIW_Data/sharedassets*.resource filter=lfs diff=lfs merge=lfs -text
